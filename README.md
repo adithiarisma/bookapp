@@ -69,7 +69,9 @@ public function run()
 
 
 Penjelasan challenge :
-Pada modul ini kita belajar tentang membuat CRUD, hampir sama dengan tugas sebelum nya. menggunakan mvc, migation,seeds dan database. pertama kita membuat table dengan migration terlebih dahulu lalu membuat  fungsi CRUD pada controller terlebih dahulu. 
+Pada modul ini kita belajar tentang membuat CRUD, hampir sama dengan tugas sebelum nya. menggunakan mvc, migration,seeds dan database. pertama kita membuat table dengan migration terlebih dahulu lalu membuat  fungsi CRUD pada controller. 
 setelah membuat controller, juga membuat models dan route nya.
 
 Lalu dijalankan pada postman.
+
+Untuk gender hanya bisa memilih antara female dan male, selain itu akan terjadi error.
